@@ -1,0 +1,22 @@
+Mark volman 
+https://github.com/mvolkmann/mvolkmann.github.com
+
+npx it will download and install 
+download and run then destroy install
+shx 
+cross-env
+ESLint??
+airbnb ESLint
+
+Babel 
+look it up seems like it will allow you to support in older browser or newer
+transpile 
+Istanbul JS code coverage tool
+
+
+Jest tool - Code coverage based on Jasmine
+Husky - Adding hooks
+Emmet - HTML plugin
+
+Structural vs nominal type checking 
+
