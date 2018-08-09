@@ -1,0 +1,3 @@
+[submodule "midwestjs/sailsjs/sails-talk-template"]
+	path = midwestjs/sailsjs/sails-talk-template
+	url = https://github.com/digitaldrummerj/sails-talk-template.git
