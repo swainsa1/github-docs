@@ -1,0 +1,10 @@
+Slides https://slides.today/decks/-LH8wTBkC8kd7wpjCMiF
+
+any to ask type script to avoid type specification 
+Unknown - new type introduced recently 
+? optional
+optional element are checked during compile time 
+"Type" vs "Interface"
+Generics 
+T
+Bendyworks 
