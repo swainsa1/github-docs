@@ -1,3 +1,6 @@
 API development faster
 buillt on top of express
 sails
+
+npm install sails -g
+sails new samplesails
