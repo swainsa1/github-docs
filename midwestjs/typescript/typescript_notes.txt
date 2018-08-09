@@ -13,5 +13,4 @@ Third party libs
 tslint
 TypeDOc
 ts-node compiles your type script
-github pearlbea
-abraham
+github pearlbea and abrahcd ..
