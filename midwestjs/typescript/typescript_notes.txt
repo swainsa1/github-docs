@@ -8,3 +8,10 @@ optional element are checked during compile time
 Generics 
 T
 Bendyworks 
+npx tsc --init
+Third party libs 
+tslint
+TypeDOc
+ts-node compiles your type script
+github pearlbea
+abraham
