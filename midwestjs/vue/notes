@@ -1,0 +1,7 @@
+Library vs framework 
+vue does not call the same methods multiple time if data is not changed
+
+Directive and template
+
+https://github.com/ZacharyKlein/room-with-a-vue-midwestjs.git
+
