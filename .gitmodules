@@ -1,3 +1,6 @@
 [submodule "midwestjs/sailsjs/sails-talk-template"]
 	path = midwestjs/sailsjs/sails-talk-template
 	url = https://github.com/digitaldrummerj/sails-talk-template.git
+[submodule "midwestjs/security/secure-spa-auth0"]
+	path = midwestjs/security/secure-spa-auth0
+	url = https://github.com/joellord/secure-spa-auth0.git

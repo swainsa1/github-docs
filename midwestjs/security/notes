@@ -1,0 +1,35 @@
+access token 
+ - short lived
+
+refresh token
+ - can be revoked
+ - long lived
+
+
+ WS Fed - Microsoft
+ SAML [ XML]
+ JWT ,,
+ JSON Web token 
+ Header payload and Signature
+
+ jwt.io - debug JWT issues
+
+ https://www.npmjs.com/package/randopeep
+
+https://github.com/joellord/
+
+presentations
+https://github.com/joellord/presentations
+
+Sample 
+https://github.com/joellord/secure-spa-auth0.git
+
+
+openidconnect.net
+
+
+Basic tutorial 
+
+https://www.youtube.com/watch?v=996OiexHze0
+
+
